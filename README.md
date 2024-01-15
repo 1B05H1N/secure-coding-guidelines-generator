@@ -1,8 +1,8 @@
-# Guidelines Generator
+# Secure Coding Guidelines Generator
 
 ## Overview
 
-The **Guidelines Generator** is a Python script that leverages OpenAI's GPT-3 API to generate secure coding guidelines for different programming languages and frameworks. It assists developers in writing secure code from the start by providing tailored guidelines.
+The **Secure Coding Guidelines Generator** is a Python script that leverages OpenAI's GPT-3 API to generate secure coding guidelines for different programming languages and frameworks. It assists developers in writing secure code from the start by providing tailored guidelines.
 
 ## Prerequisites
 
